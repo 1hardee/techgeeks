@@ -39,5 +39,5 @@ public class ImageService {
         return imageRepository.findById(id);
     }
 
-    // Other methods for update, delete, etc.
+
 }
